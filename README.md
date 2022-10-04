@@ -8,42 +8,42 @@
 **Описание и задачи:** исследовать предпочтения и пользователей музыкального сервиса в Москве и Санкт-Петербурге.
 
 ---
-## 2. [](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/02_Bank_credit_scoring)
+## 2. [Исследование надежности заемщиков](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/02_Bank_credit_scoring)
 
 **Используемые инструменты:** 
 
 **Описание и задачи:** 
 
 ---
-## 3. [](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/03_Real_estate_spb)
+## 3. [Исследование объявлений о продаже квартир](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/03_Real_estate_spb)
 
 **Используемые инструменты:** 
 
 **Описание и задачи:** 
 
 ---
-## 4. [](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/04_Telecom_tariff)
+## 4. [Определение перспективного тарифа для телеком компании](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/04_Telecom_tariff)
 
 **Используемые инструменты:** 
 
 **Описание и задачи:** 
 
 ---
-## 5. [](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/05_Games)
+## 5. [Исследование закономерностей, определяющих успешность игр](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/05_Games)
 
 **Используемые инструменты:** 
 
 **Описание и задачи:** 
 
 ---
-## 6. [](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/06_Sql_invest)
+## 6. [Работа с базой данных](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/06_Sql_invest)
 
 **Используемые инструменты:** 
 
 **Описание и задачи:** 
 
 ---
-## 7. [](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/07_Marketing)
+## 7. [Анализ маркетинговых затрат](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/07_Marketing)
 
 **Используемые инструменты:** 
 

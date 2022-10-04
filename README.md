@@ -1,2 +1,3 @@
-# [Яндекс.Практикум - Аналитик данных (Data Analyst)](https://practicum.yandex.ru/data-analyst/)
-## Проекты по обучению
+# Проекты по обучению от Яндекс.Практикум - Аналитик данных (Data Analyst)
+## [Ссылка на обущающий курс](https://practicum.yandex.ru/data-analyst/)
+---

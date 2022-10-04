@@ -36,7 +36,7 @@
 **Описание и задачи:** 
 
 ---
-## 6. [Работа с базой данных](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/06_Sql_invest)
+## 6. [Работа с базой данных. SQL-запросы](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/06_Sql_invest)
 
 **Используемые инструменты:** 
 
@@ -99,7 +99,7 @@
 **Описание и задачи:** 
 
 ---
-## 15. [Финальный проект. SQL запросы из базы данных](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/15_Final_project_sql)
+## 15. [Финальный проект. SQL-запросы из базы данных](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/15_Final_project_sql)
 
 **Используемые инструменты:** 
 

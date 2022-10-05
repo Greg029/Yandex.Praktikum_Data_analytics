@@ -101,7 +101,7 @@
 ---
 ## 15. [Финальный проект. SQL-запросы из базы данных](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/15_Final_project_sql)
 
-**Используемые инструменты:** 
+**Используемые инструменты:** `pandas`, `SQL`, `SQLAlchemy`
 
 **Описание и задачи:** 
 

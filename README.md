@@ -94,7 +94,7 @@
 ---
 ## 14. [Финальный проект. Анализ результатов А/В-тестирования](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/14_Final_project_ab_test)
 
-**Используемые инструменты:** `pandas`, `numpy`, `datetime, `matplotlib`, `seaborn`, `math`, `scipy`, `plotly` 
+**Используемые инструменты:** `pandas`, `numpy`, `datetime`, `matplotlib`, `seaborn`, `math`, `scipy`, `plotly` 
 
 **Описание и задачи:** 
 

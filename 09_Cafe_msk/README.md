@@ -13,6 +13,7 @@
 ## Используемые инструменты и навыки:
 
 `pandas`, `numpy`, `datetime`, `seaborn`,  `matplotlib`, `math`, `scipy`, `plotly`, `BytesIO`, `requests`
+
 `визуализация данных`, `подготовка презентации`
 
 

@@ -43,7 +43,7 @@
 **Описание и задачи:** проанализировать данные о фондах и инвестициях и написать запросы к базе.
 
 ---
-## 7. [Анализ маркетинговых затрат](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/07_Marketing)
+## 7. [Анализ бизнес показателей развлекательного приложения](https://github.com/Greg029/Yandex.Praktikum_Data_analytics/tree/main/07_Marketing)
 
 **Используемые инструменты и навыки:** `pandas`, `numpy`, `datetime`, `matplotlib`, `когортный анализ`, `продуктовые метрики`
 
